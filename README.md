@@ -1,6 +1,9 @@
 
 # Projeto: Detecção de Pikachu com YOLO v11
 
+![Imagem Externa]([https://exemplo.com/imagem.jpg](https://github.com/pedroveronez2/YOLO-v11-Pikachu/blob/main/val_batch0_labels.jpg?raw=true))
+
+
 ## Descrição do Projeto
 Este é um projeto de aprendizado de máquina focado na detecção de Pikachu em imagens utilizando o modelo YOLO (You Only Look Once) versão 11 e a linguagem de programação Python. O objetivo principal foi prática de habilidades em análise de dados e aprendizado de máquina, realizando testes para compreender o impacto de diferentes distribuições de dados e visualizando o desempenho do modelo. Link do yolo 11: https://github.com/ultralytics/ultralytics
 
