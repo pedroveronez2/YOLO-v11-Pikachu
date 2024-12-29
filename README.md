@@ -1,7 +1,7 @@
 
 # Projeto: Detecção de Pikachu com YOLO v11
 
-![Imagem Externa]([https://exemplo.com/imagem.jpg](https://github.com/pedroveronez2/YOLO-v11-Pikachu/blob/main/val_batch0_labels.jpg?raw=true))
+![Imagem Externa](https://raw.githubusercontent.com/pedroveronez2/YOLO-v11-Pikachu/refs/heads/main/val_batch0_labels.jpg)
 
 
 ## Descrição do Projeto
