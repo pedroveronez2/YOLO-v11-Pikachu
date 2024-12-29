@@ -1,0 +1,8 @@
+path: C:\Users\pedro\Documents\projects\pokeDetect\src\data # dataset root dir
+train: C:\Users\pedro\Documents\projects\pokeDetect\src\data\train
+val: C:\Users\pedro\Documents\projects\pokeDetect\src\data\val
+test: C:\Users\pedro\Documents\projects\pokeDetect\src\data\test
+
+# Classes
+names:
+  0: pikachu
